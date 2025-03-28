@@ -1,0 +1,2 @@
+package stdgo._internal.net;
+function testLookupWithIP(_t:stdgo.Ref<stdgo._internal.testing.Testing_t_.T_>):Void throw ":net.testLookupWithIP is not yet implemented";
