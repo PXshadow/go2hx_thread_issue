@@ -1,0 +1,5 @@
+-cp golibs
+-lib go2hx
+-m _internal.githubdotcom.go2hx.go4hx.rnd.Rnd
+-D hl-ver=1.15.0
+--hl build.hl
